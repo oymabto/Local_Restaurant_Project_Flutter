@@ -1,0 +1,4 @@
+flutter/ephemeral
+# Ignore build artifacts
+/build/
+*.apk

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "435487917787",
+    "firebase_url": "https://rtfinalproject-default-rtdb.firebaseio.com",
+    "project_id": "rtfinalproject",
+    "storage_bucket": "rtfinalproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435487917787:android:d6ae6195224098c355aefe",
+        "android_client_info": {
+          "package_name": "ca.bobers.rt_final_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435487917787-c2j8f6cpktsuuj47gaa5cbltjsfkrg45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5_-8CBMFvw-7Ewjkw9EJDzYnstxusGrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435487917787-c2j8f6cpktsuuj47gaa5cbltjsfkrg45.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "435487917787-1b9dgv9ph1hns53m373i92enek0hufqj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ca.bobers.rtFinalProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

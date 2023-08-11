@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>435487917787-1b9dgv9ph1hns53m373i92enek0hufqj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.435487917787-1b9dgv9ph1hns53m373i92enek0hufqj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDldX2FD_ORHuImFMtWNLFpDWD431nf3-w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>435487917787</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ca.bobers.rtFinalProject</string>
+	<key>PROJECT_ID</key>
+	<string>rtfinalproject</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rtfinalproject.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:435487917787:ios:03858effd31cce1055aefe</string>
+	<key>DATABASE_URL</key>
+	<string>https://rtfinalproject-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
